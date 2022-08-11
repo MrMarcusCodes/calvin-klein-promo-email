@@ -1,0 +1,255 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Light and Casual for Late Summer</mj-preview>
+    <mj-title>Light and Casual for Late Summer</mj-title>
+    <mj-font name="roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500"></mj-font>
+    
+    <mj-class>
+    
+    </mj-class>
+    <mj-attributes>
+      <mj-all font-family="roboto, tahoma, sans-serif"></mj-all>
+      <mj-text font-weight="400" align="center" font-size="16.7px" color="#666666">
+        </mmj-text>
+     
+    </mj-attributes> 
+    <mj-style inline="inline"> 
+      .link {
+              color: #666666;
+              
+            }
+      .footer-link {
+              color: #666666;
+              text-decoration: none;
+            }
+@media only screen and (max-width:480px){
+          
+      }
+      </mj-style>
+    
+  </mj-head>
+  
+  <mj-body width="600px">
+<mj-raw>
+<!--Header  -->
+</mj-raw>    
+      <mj-section background-color="#ececec">
+        <mj-group>
+        <mj-column>
+          
+          <mj-text font-size="16px" line-height="16px">Shop Summer favorites. ‌ ‌ ‌| ‌‌ ‌<a class="link" href="#">View in Browser</a>
+          </mj-text>
+         
+          <mj-text font-size="16px" line-height="16px"> Member ID: C04005589290 ‌ ‌ ‌| ‌‌ ‌Point Balance: 100 </mj-text>
+        </mj-column>
+          </mj-group>
+      </mj-section>
+    
+    <mj-section>
+      <mj-column>
+        <mj-text> Free Shipping on Orders $75+ <a href="#" class="link">Shop Now</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+   <mj-raw>
+<!-- gif  -->
+</mj-raw>
+      <mj-wrapper background-url="https://i.ibb.co/B3rCk09/Background.gif" padding-bottom="500px" >
+      <mj-section >
+        <mj-column>
+          
+          <mj-image href="https://www.calvinklein.us/en" src="https://i.ibb.co/BHhtgj6/CK-logo.png" alt="calvin klein logo" width="200px" padding-top="30px" padding-bottom="50px"> </mj-image>
+          <mj-text font-size="50px" line-height="50px" padding="40px" color="#000" align="center" >	 Refreshing Summer Style </mj-text>
+        </mj-column>
+      </mj-section>
+        </mj-wrapper>
+      <mj-section>
+         <mj-column>
+          <mj-text>  
+           <mj-raw>
+<!-- 1 coll text -->
+</mj-raw>
+          <p style="padding: 20px; font-size:20px; color: #000; line-height: 30px;" >
+            Embrace the season's shift in lightweight apparel, accessories and more. Find comfort in natural materials with casual fits. 
+            </p>
+          </mj-text>
+        </mj-column>
+        </mj-section>
+        <mj-raw>
+<!--2 col button group -->
+</mj-raw>
+        <mj-section>
+          
+        <mj-column>		
+          <mj-button width="135px" background-color="#fff" border="solid" color="#000" href="#">	Shop Women's</mj-button>
+          </mj-column>
+          <mj-column>
+          <mj-button width="135px"  background-color="#fff" border="solid" color="#000" href="#">Shop Men's</mj-button>
+         
+        </mj-column>
+            
+        </mj-section>
+        <mj-raw>
+        <!-- 2 col 2 row section -->
+        </mj-raw>
+        <mj-section>
+          <mj-group>
+          <mj-column>
+          <mj-image src="https://i.ibb.co/bm5bYbb/Shorts.jpg" href="https://www.calvinklein.us/en/summer-collection/core-solids-drawstring-short-swim-shorts-69990720-001" alt="black shorts" padding="0px" width="260px"></mj-image>
+            <mj-spacer></mj-spacer>
+           
+          <mj-image src="https://i.ibb.co/zSn2LPp/Green-dress.jpg" href="https://www.calvinklein.us/en/summer-collection/womens-summer-apparel/ruched-midi-tank-dress-18809150-300?camp=em_20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_medium=email&utm_source=marketing&utm_campaign=20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_content=&eid=/EArjQmCOxsn3k+7U+atm4yalSyDI6gQXzE6W48zSVA=" alt="Ruched Midi Tank Dress" padding="0px" width="260px"></mj-image>          
+        </mj-column>
+        <mj-column>
+          
+          <mj-image href="https://www.calvinklein.us/en/summer-collection/womens-summer-apparel/relaxed-fit-shine-logo-t-shirt-dress-18001449-790?camp=em_20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_medium=email&utm_source=marketing&utm_campaign=20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_content=&eid=/EArjQmCOxsn3k+7U+atm4yalSyDI6gQXzE6W48zSVA=" src="https://i.ibb.co/W54STs6/Long-shirt.jpg" alt="tshirt dress" padding="0px" width="260px"> </mj-image>
+           <mj-spacer></mj-spacer>
+      
+          <mj-image href="https://www.calvinklein.us/en/summer-collection/mens-summer-apparel/reimagined-color-haze-monogram-t-shirt-21898350-420?camp=em_20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_medium=email&utm_source=marketing&utm_campaign=20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_content=&eid=/EArjQmCOxsn3k+7U+atm4yalSyDI6gQXzE6W48zSVA=" src="https://i.ibb.co/FkvTwYs/graphic-tee.jpg" alt="graphic tshirt" padding="0" width="260px"></mj-image>
+          </mj-column>
+        	</mj-group>
+        </mj-section>
+        <mj-raw>
+        <!-- call to action -->
+        </mj-raw>
+        <mj-section>
+          <mj-column>
+          <mj-spacer padding-top="0px"></mj-spacer>
+            <mj-button  background-color="#fff" border="solid" color="#000" href="#" width="260px" height="65px" font-size="18px">Shop Now
+          </mj-button>
+          </mj-column>
+        </mj-section>
+        <mj-section>
+        <mj-column>
+          <mj-text font-size="35px" color="#000">	
+          New Arrivals
+        </mj-text>
+          
+          
+          <mj-spacer></mj-spacer>
+          <mj-text color="#000" font-size="20px">
+          The just-in summer styles</mj-text>
+          </mj-column>
+        </mj-section>
+          <mj-section>
+          	
+          <mj-column>
+            
+           <mj-text padding="20px" font-size="20px">
+            <a class="link" href="https://www.calvinklein.us/en/womens-clothing/new-arrivals-womens?camp=em_20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_medium=email&utm_source=marketing&utm_campaign=20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_content=&eid=/EArjQmCOxsn3k+7U+atm4yalSyDI6gQXzE6W48zSVA=" >Shop Women's</a>
+            </mj-text>
+            </mj-column>
+            <mj-column>
+           <mj-text padding="20px" font-size="20px">
+            <a class="link" href="https://www.calvinklein.us/en/mens-clothing/new-arrivals-mens?camp=em_20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_medium=email&utm_source=marketing&utm_campaign=20220728_CK_JulyWeek4_ACT_ECOM_US_V2&utm_content=&eid=/EArjQmCOxsn3k+7U+atm4yalSyDI6gQXzE6W48zSVA=">Shop Men's</a>
+            </mj-text>
+              
+            </mj-column>
+            </mj-section>
+            <mj-section>
+          
+          <mj-column >	
+            
+            <mj-raw >
+            <table >
+<tr>
+<td style="background:none; border:dotted 1px #999999; border-width:1px 0 0 0; height:1px; width:100%; margin:0px 0px 0px 0px; padding-top:10px;padding-bottom:10px;">&nbsp;</td>
+</tr>
+</table></mj-raw >
+         <mj-divider border-width="1px" border-style="solid" border-color="black" width="100%" />			
+            </mj-column>
+        </mj-section>
+        <mj-section >
+          <mj-column>
+          <mj-text font-size="19px">	
+           <h4> Shop Now. Pay Later.</h4>
+            <p > Pay in 4 interest-free payments with <a href="#" class="link">Klarna.</a> </p>
+            </mj-text>
+          </mj-column>
+          
+        </mj-section>
+        <mj-raw>
+        <!-- footer -->
+        </mj-raw>
+        <mj-section background-color="#ececec">
+        <mj-column>
+          <mj-text font-size="20px">
+          Follow us to discover new campaigns,
+arrivals, and exclusive offers.
+          </mj-text>
+          </mj-column>
+          </mj-section>
+          
+        <mj-wrapper padding="0 50px" background-color="#ececec"> 
+          <mj-section background-color="#ececec">	
+        
+           <mj-group>
+             <mj-column>
+                     
+            <mj-image padding="0 5px" src="https://i.ibb.co/3MfnbjW/facebook.png" alt="facebook logo" width="40px" height="40px"></	mj-image>
+            </mj-column>   
+              <mj-column>
+             <mj-image padding="0 5px" src="https://i.ibb.co/vqygXVq/instagram.png" alt="instagram logo" width="40px" height="40px"></	mj-image>
+              </mj-column>
+          <mj-column>
+             <mj-image padding="0 5px" src="https://i.ibb.co/tLZPHb1/twitter.png" alt="twitter logo" width="40px" height="40px"></	mj-image>
+         </mj-column>
+        <mj-column>
+             <mj-image padding="0 5px" src="https://i.ibb.co/y0TX14h/pinterest.png" alt="pinterest logo" width="40px" height="40px"></	mj-image>
+             </mj-column>
+          <mj-column>
+             <mj-image padding="0 5px" src="https://i.ibb.co/H2XH8QP/youtube.png" alt="youtube logo" width="40px" height="40px"></	mj-image>
+            </mj-column>
+          <mj-column>
+              <mj-image padding="0 5px" src="https://i.ibb.co/BZcsCvd/ck-social.png" alt="calvinklein logo" width="40px" height="40px"></	mj-image></mj-column>
+             
+             </mj-group>
+        
+        </mj-section>
+          </mj-wrapper>
+    <mj-section background-color="#ececec" >
+      
+      <mj-column>
+            <mj-button font-size="18px" 	background-color="#ececec" color="#000000" border="solid 1px" width="240px">Find a store</mj-button>
+            <mj-button  font-size="18px" background-color="#ececec" color="#000000" border="solid 1px" width="240px">Shop</mj-button>
+            <mj-button  font-size="18px" background-color="#ececec" color="#000000"  border="solid 1px" width="240px">My Account</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ececec">
+          <mj-group>
+          <mj-column>
+          <mj-text color="black">
+            <a class="footer-link" href="#" >UNSUBSCRIBE</a>&nbsp; &nbsp;
+            <a class="footer-link" href="#">PRIVACY POLICY</a>&nbsp;&nbsp;
+            <a class="footer-link" href="#">STORE LOCATOR</a>&nbsp;&nbsp;
+            <a class="footer-link" href="#">JOIN PREFERRED</a>
+            </mj-text>  
+          </mj-column>
+                      </mj-group>
+        </mj-section>
+        <mj-section  background-color="#ececec" padding="0 5px">	
+          <mj-column>
+          <mj-text font-size="14px">
+            Please add calvinklein@em.calvinklein.com to your address book to ensure inbox delivery.
+            </mj-text>
+          </mj-column>
+          </mj-section >
+        <mj-section background-color="#ececec" padding="0 5px">
+        
+           <mj-column>
+          <mj-text font-size="14px">
+            Free Ground Shipping on orders $75+. Excludes rugs. Only valid at calvinklein.us. Not valid on gift cards or previous purchases.
+            </mj-text>
+          </mj-column>
+          </mj-section>
+        <mj-section background-color="#ececec" padding="0 5px">
+            <mj-column>
+          <mj-text font-size="14px">
+            Calvin Klein, 205 West 39th Street, New York, NY 10018n
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="#ececec" padding="50px 5px"></mj-section>
+  </mj-body>
+</mjml>
