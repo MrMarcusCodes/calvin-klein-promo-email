@@ -187,22 +187,22 @@ arrivals, and exclusive offers.
            <mj-group>
              <mj-column>
                      
-            <mj-image padding="0 5px" src="https://i.ibb.co/3MfnbjW/facebook.png" alt="facebook logo" width="40px" height="40px"></	mj-image>
+            <mj-image padding="0 5px" src="https://i.ibb.co/3MfnbjW/facebook.png" alt="facebook logo" width="40px" height="40px" href="#"></	mj-image>
             </mj-column>   
               <mj-column>
-             <mj-image padding="0 5px" src="https://i.ibb.co/vqygXVq/instagram.png" alt="instagram logo" width="40px" height="40px"></	mj-image>
+             <mj-image padding="0 5px" src="https://i.ibb.co/vqygXVq/instagram.png" alt="instagram logo" width="40px" height="40px" href="#"></	mj-image>
               </mj-column>
           <mj-column>
-             <mj-image padding="0 5px" src="https://i.ibb.co/tLZPHb1/twitter.png" alt="twitter logo" width="40px" height="40px"></	mj-image>
+             <mj-image padding="0 5px" src="https://i.ibb.co/tLZPHb1/twitter.png" alt="twitter logo" width="40px" height="40px" href="#"></	mj-image>
          </mj-column>
         <mj-column>
-             <mj-image padding="0 5px" src="https://i.ibb.co/y0TX14h/pinterest.png" alt="pinterest logo" width="40px" height="40px"></	mj-image>
+             <mj-image padding="0 5px" src="https://i.ibb.co/y0TX14h/pinterest.png" alt="pinterest logo" width="40px" height="40px" href="#"></	mj-image>
              </mj-column>
           <mj-column>
-             <mj-image padding="0 5px" src="https://i.ibb.co/H2XH8QP/youtube.png" alt="youtube logo" width="40px" height="40px"></	mj-image>
+             <mj-image padding="0 5px" src="https://i.ibb.co/H2XH8QP/youtube.png" alt="youtube logo" width="40px" height="40px" href="#"></	mj-image>
             </mj-column>
           <mj-column>
-              <mj-image padding="0 5px" src="https://i.ibb.co/BZcsCvd/ck-social.png" alt="calvinklein logo" width="40px" height="40px"></	mj-image></mj-column>
+              <mj-image padding="0 5px" src="https://i.ibb.co/BZcsCvd/ck-social.png" alt="calvinklein logo" width="40px" height="40px" href="#"></	mj-image></mj-column>
              
              </mj-group>
         
@@ -211,9 +211,9 @@ arrivals, and exclusive offers.
     <mj-section background-color="#ececec" >
       
       <mj-column>
-            <mj-button font-size="18px" 	background-color="#ececec" color="#000000" border="solid 1px" width="240px">Find a store</mj-button>
-            <mj-button  font-size="18px" background-color="#ececec" color="#000000" border="solid 1px" width="240px">Shop</mj-button>
-            <mj-button  font-size="18px" background-color="#ececec" color="#000000"  border="solid 1px" width="240px">My Account</mj-button>
+            <mj-button font-size="18px" 	background-color="#ececec" color="#000000" border="solid 1px" width="240px" href="#">Find a store</mj-button>
+            <mj-button  font-size="18px" background-color="#ececec" color="#000000" border="solid 1px" width="240px" href="#">Shop</mj-button>
+            <mj-button  font-size="18px" background-color="#ececec" color="#000000"  border="solid 1px" width="240px" href="#">My Account</mj-button>
             </mj-column>
         </mj-section>
         <mj-section background-color="#ececec">
